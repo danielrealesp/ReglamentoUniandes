@@ -1,0 +1,63 @@
+DEFINICIONES
+
+- crédito: Es la unidad utilizada para medir la dedicación académica del estudiante. Equivale a 48 horas de trabajo académico, que comprende las horas con acompañamiento directo del docente y las horas de trabajo independiente que el estudiante debe dedicar a la realización de actividades de estudio, prácticas u otras que sean necesarias para alcanzar los objetivos de aprendizaje. El número de créditos de una actividad académica será expresado en números enteros.
+
+- curso: Cada una de las asignaturas o materias que se ofrecen en la Universidad y que puede hacer parte del plan de estudios correspondiente a un determinado programa académico.
+
+- cursos de la escuela de verano: Cursos de pregrado o maestría, de nivel avanzado (nivel 3 o 4), que ofrece la Universidad en el periodo intersemestral.
+
+- estado académico: Hace referencia a la situación de estudios en la cual se puede encontrar un alumno en determinado momento de su carrera.
+
+- expulsión: Cancelación definitiva de la matrícula de un estudiante por incurrir en una falta disciplinaria gravísima.
+
+- fraude: Es el comportamiento del estudiante que infringe las reglas de la Universidad o las reglas establecidas por el evaluador, en desarrollo de una actividad académica.
+
+- homologación: Es el reconocimiento que la Universidad le otorga a las materias cursadas por un estudiante en otra institución de educación superior o en un programa académico de la Universidad. 
+
+- incompleto: Nota especial aplicable a aquellos estudiantes que, por razones justificadas, no cumplen con los requisitos establecidos para la aprobación de una materia, entendiéndose entonces como no cursada.
+
+- ingreso: Se entiende por ingreso el período en el que se haga efectiva la primera matricula del estudiante o su primer semestre por transferencia.
+
+- matrícula: Proceso mediante el cual la persona admitida a la Universidad adquiere la calidad de estudiante regular y puede beneficiarse del servicio educativo que brinda la institución, comprometiéndose a cumplir los reglamentos que regulan la prestación del servicio. La matrícula deberá ser renovada para cada periodo académico, mediante el pago del valor correspondiente, siguiendo los procedimientos y fechas establecidos por la Universidad.
+
+- pendiente: Nota especial aplicable a aquellos estudiantes que, por fuerza mayor, no han podido cumplir con uno de los requisitos del curso o no han obtenido la calificación definitiva.
+- pendiente disciplinario: Nota especial aplicable temporalmente a aquellos estudiantes vinculados a un proceso disciplinario por fraude académico.
+
+- pendiente especial: Nota excepcional aplicable a aquellos estudiantes que se encuentran desarrollando su correspondiente proyecto de grado y que no ha sido concluido, por razones justificadas, dentro del semestre inicialmente establecido.
+
+- práctica académica: Las prácticas académicas constituyen una estrategia complementaria para que los estudiantes desarrollen e integren las habilidades, conocimientos, actitudes y valores que hacen parte de las competencias con las cuales se desempeñarán profesionalmente.
+
+- programa no regular: Aquel que la Universidad ofrece en el marco de la educación continuada o proyección social y que puede conducir al otorgamiento de un certificado de asistencia.
+
+- programa regular: Cualquiera de los programas que ofrece la Universidad a nivel de pregrado o de posgrado y que conducen al otorgamiento de un título reconocido por el Ministerio de Educación Nacional.
+
+- promedio: Es el resultado de multiplicar el número de créditos de cada materia por la calificación obtenida, sumando estos productos y dividiendo el resultado por el número total de créditos calificados numéricamente. Este procedimiento será utilizado para efectos de determinar el promedio semestral, así como el promedio acumulado del estudiante.
+
+- promedio acumulado: Hace referencia a todo el trabajo académico realizado por el estudiante de un programa regular ofrecido por la Universidad. Los resultados obtenidos en el periodo intersemestral afectarán el estado académico del estudiante una vez termine de cursar el semestre inmediatamente siguiente a tal periodo intersemestral.
+
+- promedio para extracreditación: Corresponde al promedio de las calificaciones obtenidas en las materias cursadas en los dos últimos semestres matriculados, ponderado por el número de créditos para cada una. Excluye el periodo intersemestral (cursos de vacaciones y verano). Aplica exclusivamente para programas reformados.
+
+- promedio semestral: Hace referencia a cada uno de los semestres cursados por el estudiante. Para obtenerlo se tendrán en cuenta las calificaciones numéricas obtenidas en cada una de las materias cursadas durante el respectivo periodo académico.
+
+- prueba académica: Hace referencia a la consecuencia derivada de un rendimiento académico deficiente.
+
+- prueba de conducta: Hace referencia al periodo en el cual un estudiante tiene matrícula condicional como consecuencia de una sanción disciplinaria.
+
+- reclamo: Procedimiento por el cual el estudiante solicita la reconsideración de una calificación recibida, mediante comunicación escrita.
+
+- recurso: Escrito mediante el cual el estudiante solicita que una decisión adoptada por algún órgano o empleado de la Universidad sea aclarada, modificada o revocada.
+
+- reingreso: Procedimiento a través del cual un estudiante, que ha sido retirado de un programa regular de la Universidad por razones académicas o disciplinarias, se reincorpora a la Universidad.
+
+- reintegro: Procedimiento a través del cual un estudiante, que se ha retirado voluntariamente de un programa regular de la Universidad, se reincorpora a ella.
+
+- residencia: Créditos mínimos que un estudiante debe cursar y aprobar en la Universidad, para cumplir los requisitos de grado.
+
+- retiro voluntario de la Universidad: Decisión voluntaria del estudiante de desvincularse temporalmente de la institución.
+
+- suspensión: Medida temporal adoptada por la Universidad, consistente en el retiro de un estudiante de los programas regulares de la institución, por un bajo rendimiento académico o por una sanción disciplinaria.
+
+- transferencia: Procedimiento por el cual un estudiante solicita ingresar a otro programa en la Universidad o un estudiante de otra institución de educación superior solicita ser admitido en alguno de los programas ofrecidos por la Universidad de los Andes, sin hacer el proceso de admisión regular.
+
+- validación: Reconocimiento de uno o varios cursos que la Universidad otorga mediante la aprobación de los exámenes correspondientes (u otras formas de evaluación establecidas por el programa) por parte del estudiante, en el que se puedan evaluar las competencias de dichos cursos en el currículo de su profesión.
+
